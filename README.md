@@ -46,9 +46,9 @@ UV Technocrats System, Pune
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Add your LinkedIn profile]
-* GitHub: [Add your GitHub profile]
-* Email: [Add your email]
+* LinkedIn: [https://www.linkedin.com/in/ashish-awagan-68a1063a7/]
+* GitHub: [https://github.com/ashishawagan07-ui]
+* Email: [awaganashish61@gmail.com]
 
 ---
 
